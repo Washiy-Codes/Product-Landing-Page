@@ -2,6 +2,9 @@
 
 A clean and responsive product landing page built using **HTML** and **CSS**. It includes a hero section, product highlights, and a clear call-to-action, all styled with a modern and minimal layout.
 
+## Live Project
+[Try it here](https://washiy-codes.github.io/Product-Landing-Page/)
+
 ## Features
 - Responsive design  
 - Modern and clean UI  
