@@ -4,8 +4,11 @@ A clean and responsive product landing page built using **HTML** and **CSS**. It
 
 ---
 
-##Project Screenshot
+##App screenshot
 
+![Calculator App](https://assets.codepen.io/1015609/internal/screenshots/pens/QWvjWbg.default.png?fit=cover&format=auto&ha=true&height=360&quality=75&v=2&version=1625255757&width=640)
+
+---
 
 ## Live Project
 [Try it here](https://washiy-codes.github.io/Product-Landing-Page/)
