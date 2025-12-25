@@ -3,12 +3,12 @@
 A clean and responsive product landing page built using **HTML** and **CSS**. It includes a hero section, product highlights, and a clear call-to-action, all styled with a modern and minimal layout.
 
 ---
+## 📸 App Screenshot
 
-##App screenshot
-
-![Calculator App](https://assets.codepen.io/1015609/internal/screenshots/pens/QWvjWbg.default.png?fit=cover&format=auto&ha=true&height=360&quality=75&v=2&version=1625255757&width=640)
+![Product Landing Page](https://global.discourse-cdn.com/freecodecamp/original/3X/a/4/a4a34064b2f75e50603702d78c5a3c03f7dd4225.jpeg)
 
 ---
+
 
 ## Live Project
 [Try it here](https://washiy-codes.github.io/Product-Landing-Page/)
