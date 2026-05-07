@@ -23,5 +23,3 @@ A clean and responsive product landing page built using **HTML** and **CSS**. It
 ## Technologies Used
 - HTML  
 - CSS  
-
-1. Download or clone the repository.  
