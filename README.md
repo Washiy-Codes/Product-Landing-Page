@@ -3,7 +3,7 @@
 A clean and responsive product landing page built using **HTML** and **CSS**. It includes a hero section, product highlights, and a clear call-to-action, all styled with a modern and minimal layout.
 
 ---
-## 📸 App Screenshot
+##  App Screenshot
 
 ![Product Landing Page](https://global.discourse-cdn.com/freecodecamp/original/3X/a/4/a4a34064b2f75e50603702d78c5a3c03f7dd4225.jpeg)
 
